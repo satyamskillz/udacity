@@ -1,4 +1,5 @@
-<h1>Udacity Deep learning nanodegree projects</h1>
+<h1>Udacity Deep learning nanodegree</h1>
+<h4>Projects</h4>
 <ul>
     <li><a href="project-2">Dog breed classification</a></li>
 </ul>
