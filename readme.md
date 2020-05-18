@@ -3,4 +3,6 @@
 <ul>
     <li><a href="project-2">Dog breed classification</a></li>
     <li><a href="project-3">Generate TV Scripts</a></li>
+    <li><a href="project-4">Generate Faces</a></li>
+    <li><a href="project-5">Deploying a Sentiment Analysis Model</a></li>
 </ul>
